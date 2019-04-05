@@ -38,9 +38,9 @@
         <Menu-item name="/about">
           {{$t('m.Judger')}}
         </Menu-item>
-        <Menu-item name="/FAQ">
+        <!-- <Menu-item name="/FAQ">
           {{$t('m.FAQ')}}
-        </Menu-item>
+        </Menu-item> -->
       </Submenu>
       <template v-if="!isAuthenticated">
         <div class="btn-menu">

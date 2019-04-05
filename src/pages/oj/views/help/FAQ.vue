@@ -1,6 +1,6 @@
 <template>
   <panel>
-    <div slot="title">{{$t('m.Frequently_Asked_Questions')}}</div>
+    <!-- <div slot="title">{{$t('m.Frequently_Asked_Questions')}}</div> -->
     <div class="content markdown-body">
      
     </div>

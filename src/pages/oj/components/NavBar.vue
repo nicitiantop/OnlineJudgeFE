@@ -23,12 +23,16 @@
           <Icon type="podium"></Icon>
           {{$t('m.Rank')}}
         </template>
-        <Menu-item name="/acm-rank">
+         <Menu-item name="/acm-rank">
+          Rank(排名)
+        </Menu-item>
+       
+        <!-- <Menu-item name="/acm-rank">
           {{$t('m.ACM_Rank')}}
         </Menu-item>
         <Menu-item name="/oi-rank">
           {{$t('m.OI_Rank')}}
-        </Menu-item>
+        </Menu-item> -->
       </Submenu>
       <Submenu name="about">
         <template slot="title">
